@@ -1,4 +1,4 @@
-module kubesecgpt
+module github.com/bilalunalnet/kubesecgpt
 
 go 1.18
 
